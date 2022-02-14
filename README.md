@@ -21,5 +21,12 @@ convert it to farenheit using the formula F = (9/5)C+32
 ### OCKWIGA6
 This program moves a character input by the user and moves it across the screen between 1 adn 3 times.
 
-
-
+### OCKWIGA7
+This program finds the greatest common denominator between two user chosen numbers using the formula:
+while (M<>N)
+  if(N > M)
+  N = N - M
+  else
+  M = M - N
+### OCKWIGA8
+This will take a user given amount of integers which will make a string of #'s relative to the numbers input by the user.
